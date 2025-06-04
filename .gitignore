@@ -1,0 +1,9 @@
+*.o
+*.log
+*.tex
+*.aux
+*getopt_flags
+*getopt_params
+*interactive
+*redirect_input
+
