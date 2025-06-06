@@ -1,5 +1,7 @@
 # PP8
 
+## For the reflective questions please watch PP8_tasks.pdf it took me somewhere around 90-120 minutes, but I think 30 Minutes of that are for working with Latex, so the Tasks them self took the right time.
+
 ## Goal
 
 In this exercise you will:
